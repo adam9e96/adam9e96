@@ -8,7 +8,12 @@
 
 - [DevBlog](https://www.notion.so/adam9e96/adam9e96-DevBlog-2e79b56379408095953cc0aa0db2e138?source=copy_link)
 - [Portfolio]
-- 
+
+### 💻 I Focus On
+* **REST API & Design:** 안정적이고 확장 가능한 API 설계를 즐깁니다.
+* **Performance Optimization:** 시스템의 안정성을 유지하면서 성능을 극대화하는 방법에 몰두합니다.
+* **Consistent Quality:** 누가 읽어도 이해하기 쉽고 유지보수하기 좋은 일관성 있는 코드를 작성하려 노력합니다.
+
 ## 🛠️ Tech Stack
 
 ### Frontend
